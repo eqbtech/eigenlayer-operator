@@ -1,7 +1,7 @@
 {
-  "name": "Euclid Test Operator",
+  "name": "Euclid - New Standard for Ethereum Restaking",
   "website": "https://euclidfinance.io/home",
-  "description": "I'm testing operator",
+  "description": "Euclid Finance has defined THE NEW STANDARD FOR ETHEREUM RESTAKING. Euclid aims to build a trustless and permissionless operator network powered by EigenLayer. This is its official run Operator. Euclid is a protocol under NGA DAO, which also includes Equilibria Finance and Artemis Finance, jointly managing over $100 million in assets.",
   "logo": "https://raw.githubusercontent.com/eqbtech/eigenlayer-operator/main/config/logo.png",
   "twitter": "https://twitter.com/Euclidfi"
 }
